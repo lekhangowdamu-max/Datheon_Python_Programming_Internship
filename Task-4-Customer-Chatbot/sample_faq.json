@@ -1,0 +1,42 @@
+{
+    "greetings": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good afternoon",
+        "good evening"
+    ],
+    "faqs": [
+        {
+            "question": "What are your hours of operation?",
+            "keywords": ["hours", "business", "open", "timing", "working"],
+            "answer": "We operate Monday through Friday from 9:00 AM to 6:00 PM IST."
+        },
+        {
+            "question": "How do I submit my internship project?",
+            "keywords": ["submit", "submission", "internship", "project", "github"],
+            "answer": "You can submit your public GitHub repository link through your Student Workspace."
+        },
+        {
+            "question": "When will I receive my certificate?",
+            "keywords": ["certificate", "certification", "completion", "credential"],
+            "answer": "Certificates are reviewed and issued within 3-5 business days after your code review."
+        },
+        {
+            "question": "What products do you offer?",
+            "keywords": ["product", "products", "services", "offer"],
+            "answer": "We offer learning resources, internship programs and project-based training."
+        },
+        {
+            "question": "What payment methods are accepted?",
+            "keywords": ["payment", "pay", "price", "fee", "cost"],
+            "answer": "Please check the official program details for the applicable fees and payment methods."
+        },
+        {
+            "question": "How can I contact customer support?",
+            "keywords": ["contact", "support", "help", "email", "assistance"],
+            "answer": "Please contact the official support team through the company's website."
+        }
+    ]
+}
